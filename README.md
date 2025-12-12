@@ -45,7 +45,7 @@
 
 ### 🔹 Synthetic Data Generation for Imbalanced Biometric Data
 - Built a transformer-based synthetic data pipeline using **PyTorch** to address class imbalance  
-- Improved model performance to **82% accuracy** and **0.81 F1-score**  
+- Improved model performance to **69% accuracy** and **0.81 F1-score**  
 
 ---
 
